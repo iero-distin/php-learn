@@ -1,0 +1,6 @@
+<div id='navigate'>
+<table><tr>
+<td><a href='index.php'>список заявок</a></td>
+<td><a href='claim.php'>добавить заявку</a></td>
+</tr></table>
+</div>
